@@ -1,2 +1,2 @@
 # Python-Interview-Qs-Fundamental
- Python Technical Interview Questions + Fundamental
+ Let's go over frequently-asked Python Technical Interview Questions + review some of the Python Fundamental.
